@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.1.1](https://github.com/djrasmusp/release-it/compare/1.1.0...1.1.1) (2025-05-19)
+
+### Bug Fixes
+
+* release-it workflow file ([319c5e9](https://github.com/djrasmusp/release-it/commit/319c5e97eafdc53cd9905b4e23b92b1df842e58e))
+
 ## [1.1.0](https://github.com/djrasmusp/release-it/compare/1.0.4...1.1.0) (2025-05-19)
 
 ### Features
