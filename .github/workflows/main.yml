@@ -2,6 +2,12 @@ name: Release-it
 on:
   push:
     branches: ["main"]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+  
 jobs:
   release:
     runs-on: ubuntu-latest
