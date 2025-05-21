@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.0](https://github.com/djrasmusp/release-it/compare/1.1.2...1.2.0) (2025-05-21)
+
+### Features
+
+* add docs ([817b044](https://github.com/djrasmusp/release-it/commit/817b04479a2aeffd531bd183920e93c2faea6974))
+
 ## [1.1.2](https://github.com/djrasmusp/release-it/compare/1.1.1...1.1.2) (2025-05-21)
 
 ## [1.1.1](https://github.com/djrasmusp/release-it/compare/1.1.0...1.1.1) (2025-05-19)
