@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.3.0](https://github.com/djrasmusp/release-it/compare/1.2.0...1.3.0) (2025-05-21)
+
+### Features
+
+* update config ([8da855b](https://github.com/djrasmusp/release-it/commit/8da855beb628b6507f8c73dfc1557dd2d80ae3c5))
+
 ## [1.2.0](https://github.com/djrasmusp/release-it/compare/1.1.2...1.2.0) (2025-05-21)
 
 ### Features
