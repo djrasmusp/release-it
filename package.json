@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/djrasmusp/release-it.git"
   },
-  "author": "",
+  "author": "Rasmus P",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/djrasmusp/release-it/issues"
