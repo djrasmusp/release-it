@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.4.1](https://github.com/djrasmusp/release-it/compare/1.4.0...1.4.1) (2025-05-21)
+
+### Bug Fixes
+
+* add docs closes [#8](https://github.com/djrasmusp/release-it/issues/8) ([b605ead](https://github.com/djrasmusp/release-it/commit/b605eadbaa25777564f44b30c6272d7358a0f862))
+
 ## [1.4.0](https://github.com/djrasmusp/release-it/compare/1.3.1...1.4.0) (2025-05-21)
 
 ### Features
