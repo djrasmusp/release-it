@@ -17,7 +17,7 @@
     "url": "https://github.com/djrasmusp/release-it/issues"
   },
   "homepage": "https://github.com/djrasmusp/release-it#readme",
-  "description": "",
+  "description": "Release-it: testing",
   "devDependencies": {
     "@release-it/conventional-changelog": "^10.0.1",
     "release-it": "^19.0.2"
