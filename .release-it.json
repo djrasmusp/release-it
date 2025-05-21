@@ -24,6 +24,10 @@
             "section": "Bug Fixes"
           }
         ]
+      },
+      "options": {
+        "name": "conventionalcommits",
+        "issueUrlFormat": "https://mygbugtracker.com/{{id}}"
       }
     }
   }
