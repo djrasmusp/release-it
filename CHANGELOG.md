@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.4.0](https://github.com/djrasmusp/release-it/compare/1.3.1...1.4.0) (2025-05-21)
+
+### Features
+
+* add new config ([b3cf913](https://github.com/djrasmusp/release-it/commit/b3cf913dc343da558886d277fd95e567c88971cf))
+
+### Bug Fixes
+
+* redone config ([d8dc82f](https://github.com/djrasmusp/release-it/commit/d8dc82fe67f71a16cb5e42211c6f9fbfbe73330a))
+
 ## [1.3.1](https://github.com/djrasmusp/release-it/compare/1.3.0...1.3.1) (2025-05-21)
 
 ### Bug Fixes
