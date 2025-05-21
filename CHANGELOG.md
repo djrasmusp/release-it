@@ -1,5 +1,7 @@
 # Changelog
 
+## [1.1.2](https://github.com/djrasmusp/release-it/compare/1.1.1...1.1.2) (2025-05-21)
+
 ## [1.1.1](https://github.com/djrasmusp/release-it/compare/1.1.0...1.1.1) (2025-05-19)
 
 ### Bug Fixes
