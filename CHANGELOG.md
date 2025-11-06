@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.5.0](https://github.com/djrasmusp/release-it/compare/1.4.2...1.5.0) (2025-11-06)
+
+### Features
+
+* release new branch ([9815d24](https://github.com/djrasmusp/release-it/commit/9815d24e52c45bd8fd9cc2ef8b1e0de447d3c4a6))
+
 ## [1.4.2](https://github.com/djrasmusp/release-it/compare/1.4.1...1.4.2) (2025-11-06)
 
 ## [1.4.1](https://github.com/djrasmusp/release-it/compare/1.4.0...1.4.1) (2025-05-21)
